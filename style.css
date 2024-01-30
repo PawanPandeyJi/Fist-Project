@@ -386,7 +386,7 @@ body{
 /*package section*/
 
 .background{
-    background: url("/pictures/plans-background.jpg") center/cover;
+    background: url("plans-background.jpg") center/cover;
     filter: grayscale(100%);
     background-repeat: no-repeat;
     height: 100%;
