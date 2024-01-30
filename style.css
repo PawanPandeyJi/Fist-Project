@@ -386,13 +386,13 @@ body{
 /*package section*/
 
 .background{
-    background: url("plans-background.jpg") center/cover;
+    background-image: url("plans-background.jpg") center/cover;
     filter: grayscale(100%);
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
     position: fixed;
-    z-index: -1;
+    z-index: 1;
     top: 0;
     bottom: 0;
 }
